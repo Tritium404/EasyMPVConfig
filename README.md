@@ -1,2 +1,2 @@
 # EasyMPVConfig
-MPV chineseized configuration file, located in ~/.config/mpv/mpv.conf
+下载下来扔 ~/.config/ 里就行
